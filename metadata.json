@@ -1,0 +1,6 @@
+{
+  "name": "Audio Equalizer",
+  "description": "Professional 10-band audio graphic equalizer and real-time spectrum analyzer with presets, sound effects, and full mobile and desktop support.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
